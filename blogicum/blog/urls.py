@@ -30,4 +30,3 @@ urlpatterns = [
          name='edit_profile'),
 
 ]
- 
